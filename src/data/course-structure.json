@@ -1,0 +1,83 @@
+[
+    {
+        "id": "chapter-1",
+        "type": "chapter",
+        "title": "Introduction & Philosophy",
+        "children": [
+            {
+                "id": "section-1-1",
+                "type": "section",
+                "title": "Introduction & Overview"
+            },
+            {
+                "id": "section-1-2",
+                "type": "section",
+                "title": "Who is Club Health?"
+            },
+            {
+                "id": "section-1-3",
+                "type": "section",
+                "title": "What Do We Offer?"
+            },
+            {
+                "id": "section-1-4",
+                "type": "section",
+                "title": "Main Principles of Club Health"
+            }
+        ]
+    },
+    {
+        "id": "chapter-2",
+        "type": "chapter",
+        "title": "Physiotherapy – Fundamentals & Treatment Techniques",
+        "children": []
+    },
+    {
+        "id": "chapter-3",
+        "type": "chapter",
+        "title": "Prevention & Maintenance in Physiotherapy",
+        "children": []
+    },
+    {
+        "id": "chapter-4",
+        "type": "chapter",
+        "title": "Summary & Recap",
+        "children": []
+    },
+    {
+        "id": "chapter-5",
+        "type": "chapter",
+        "title": "Physiotherapy Fundamentals",
+        "children": []
+    },
+    {
+        "id": "chapter-6",
+        "type": "chapter",
+        "title": "Treatment Techniques",
+        "children": []
+    },
+    {
+        "id": "chapter-7",
+        "type": "chapter",
+        "title": "Specialized Therapies",
+        "children": []
+    },
+    {
+        "id": "chapter-8",
+        "type": "chapter",
+        "title": "Prevention & Maintenance",
+        "children": []
+    },
+    {
+        "id": "chapter-9",
+        "type": "chapter",
+        "title": "Summary & Integration",
+        "children": []
+    },
+    {
+        "id": "chapter-10",
+        "type": "chapter",
+        "title": "Treatment Modalities & Basic Principles Assessment",
+        "children": []
+    }
+]

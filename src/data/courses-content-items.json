@@ -1,0 +1,42 @@
+[
+    {
+        "id": "c1",
+        "type": "video",
+        "title": "Introductory Video"
+    },
+    {
+        "id": "c2",
+        "type": "content-block",
+        "title": "Welcome & Module Objectives"
+    },
+    {
+        "id": "c3",
+        "type": "content-block",
+        "title": "Our Philosophy"
+    },
+    {
+        "id": "c4",
+        "type": "content-block",
+        "title": "Why This Matters"
+    },
+    {
+        "id": "c5",
+        "type": "content-block",
+        "title": "What benefits can be expected from following Club Health's principles?"
+    },
+    {
+        "id": "c6",
+        "type": "content-block",
+        "title": "Course Roadmap"
+    },
+    {
+        "id": "c7",
+        "type": "document",
+        "title": "Course Outline"
+    },
+    {
+        "id": "c8",
+        "type": "document",
+        "title": "Sample Document"
+    }
+]

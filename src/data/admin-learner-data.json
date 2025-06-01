@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "fullName": "Gretchen Geist",
+        "email": "gretchen@example.com",
+        "learnerGroup": "Beginner Learners",
+        "courseCompleted": "N/A",
+        "learningHours": "N/A",
+        "avgScore": "00",
+        "status": "pending",
+        "joinDate": "Apr 15, 2024",
+        "avatar": ""
+    },
+    {
+        "id": 2,
+        "fullName": "Craig Wastertolt",
+        "email": "craig@example.com",
+        "learnerGroup": "Intermediate Learners",
+        "courseCompleted": "2 courses",
+        "learningHours": "4h 10m",
+        "avgScore": "67",
+        "status": "active",
+        "joinDate": "Apr 14, 2024"
+    },
+    {
+        "id": 3,
+        "fullName": "Jakob Gesure",
+        "email": "jakob@example.com",
+        "learnerGroup": "Advanced Practitioners",
+        "courseCompleted": "1 courses",
+        "learningHours": "1h 12m",
+        "avgScore": "40",
+        "status": "blocked",
+        "joinDate": "Apr 13, 2024"
+    },
+    {
+        "id": 4,
+        "fullName": "Jaydon Bootsh",
+        "email": "jaydon@example.com",
+        "learnerGroup": "Professional Development Track",
+        "courseCompleted": "3 courses",
+        "learningHours": "7h 23m",
+        "avgScore": "73",
+        "status": "active",
+        "joinDate": "Apr 12, 2024"
+    },
+    {
+        "id": 5,
+        "fullName": "Kaiya Donin",
+        "email": "kaiya@example.com",
+        "learnerGroup": "Advanced Practitioners",
+        "courseCompleted": "1 courses",
+        "learningHours": "1h 32m",
+        "avgScore": "35",
+        "status": "active",
+        "joinDate": "Apr 11, 2024"
+    },
+    {
+        "id": 6,
+        "fullName": "Haylie Stanton",
+        "email": "haylie@example.com",
+        "learnerGroup": "Intermediate Learners",
+        "courseCompleted": "3 courses",
+        "learningHours": "5h 49m",
+        "avgScore": "91",
+        "status": "active",
+        "joinDate": "Apr 10, 2024"
+    },
+    {
+        "id": 7,
+        "fullName": "Abram Vaccaro",
+        "email": "abram@example.com",
+        "learnerGroup": "Beginner Learners",
+        "courseCompleted": "2 courses",
+        "learningHours": "3h 8m",
+        "avgScore": "60",
+        "status": "pending",
+        "joinDate": "Apr 9, 2024"
+    },
+    {
+        "id": 8,
+        "fullName": "Anika Dorwart",
+        "email": "anika@example.com",
+        "learnerGroup": "Intermediate Learners",
+        "courseCompleted": "1 courses",
+        "learningHours": "1h 15m",
+        "avgScore": "100",
+        "status": "active",
+        "joinDate": "Apr 8, 2024"
+    },
+    {
+        "id": 9,
+        "fullName": "Ahmad George",
+        "email": "ahmad@example.com",
+        "learnerGroup": "Foundation Track",
+        "courseCompleted": "3 courses",
+        "learningHours": "6h 30m",
+        "avgScore": "22",
+        "status": "active",
+        "joinDate": "Apr 7, 2024"
+    },
+    {
+        "id": 10,
+        "fullName": "Anika Dorwart",
+        "email": "anika2@example.com",
+        "learnerGroup": "Beginner Learners",
+        "courseCompleted": "6 courses",
+        "learningHours": "20h 32m",
+        "avgScore": "85",
+        "status": "active",
+        "joinDate": "Apr 6, 2024"
+    },
+    {
+        "id": 11,
+        "fullName": "Haylie Stanton",
+        "email": "haylie@example.com",
+        "learnerGroup": "Intermediate Learners",
+        "courseCompleted": "3 courses",
+        "learningHours": "5h 49m",
+        "avgScore": "91",
+        "status": "active",
+        "joinDate": "Apr 10, 2024"
+    },
+    {
+        "id": 12,
+        "fullName": "Abram Vaccaro",
+        "email": "abram@example.com",
+        "learnerGroup": "Beginner Learners",
+        "courseCompleted": "2 courses",
+        "learningHours": "3h 8m",
+        "avgScore": "60",
+        "status": "pending",
+        "joinDate": "Apr 9, 2024"
+    },
+    {
+        "id": 13,
+        "fullName": "Anika Dorwart",
+        "email": "anika@example.com",
+        "learnerGroup": "Intermediate Learners",
+        "courseCompleted": "1 courses",
+        "learningHours": "1h 15m",
+        "avgScore": "100",
+        "status": "active",
+        "joinDate": "Apr 8, 2024"
+    },
+    {
+        "id": 14,
+        "fullName": "Ahmad George",
+        "email": "ahmad@example.com",
+        "learnerGroup": "Foundation Track",
+        "courseCompleted": "3 courses",
+        "learningHours": "6h 30m",
+        "avgScore": "22",
+        "status": "active",
+        "joinDate": "Apr 7, 2024"
+    },
+    {
+        "id": 15,
+        "fullName": "Anika Dorwart",
+        "email": "anika2@example.com",
+        "learnerGroup": "Beginner Learners",
+        "courseCompleted": "6 courses",
+        "learningHours": "20h 32m",
+        "avgScore": "85",
+        "status": "active",
+        "joinDate": "Apr 6, 2024"
+    }
+]

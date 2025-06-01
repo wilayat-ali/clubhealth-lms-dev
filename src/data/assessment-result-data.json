@@ -1,0 +1,107 @@
+{
+    "title": "Treatment Modalities & Basic Principles",
+    "score": "80%",
+    "status": "Passed",
+    "attempts": 1,
+    "timeTaken": "5m 10s",
+    "questions": [
+        {
+            "id": 1,
+            "type": "single",
+            "question": "What is the core philosophy of Club Health?",
+            "isCorrect": true,
+            "userAnswer": "Moving Well, Moving Often",
+            "correctAnswer": "Moving Well, Moving Often",
+            "options": [
+                { "text": "Train hard, stay fit", "selected": false },
+                {
+                    "text": "Moving Well, Moving Often",
+                    "selected": true,
+                    "correct": true
+                },
+                { "text": "Always active, always strong", "selected": false },
+                { "text": "Train daily, no excuses", "selected": false }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "multiple",
+            "question": "Which of the following are key principles of Club Health's treatment approach?",
+            "isCorrect": false,
+            "userAnswers": [
+                "Short-term Pain Relief",
+                "Lifestyle Integration",
+                "Patient Education"
+            ],
+            "correctAnswers": [
+                "Strength Training",
+                "Lifestyle Integration",
+                "Patient Education"
+            ],
+            "options": [
+                {
+                    "text": "Short-term Pain Relief",
+                    "selected": true,
+                    "correct": false
+                },
+                {
+                    "text": "Strength Training",
+                    "selected": false,
+                    "correct": true
+                },
+                {
+                    "text": "Lifestyle Integration",
+                    "selected": true,
+                    "correct": true
+                },
+                {
+                    "text": "Patient Education",
+                    "selected": true,
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "type": "single",
+            "question": "Which modality best promotes tissue healing?",
+            "isCorrect": true,
+            "userAnswer": "Ultrasound",
+            "correctAnswer": "Ultrasound",
+            "options": [
+                { "text": "Massage", "selected": false },
+                { "text": "Ultrasound", "selected": true, "correct": true },
+                { "text": "Rest", "selected": false },
+                { "text": "Stretching", "selected": false }
+            ]
+        },
+        {
+            "id": 4,
+            "type": "single",
+            "question": "Which modality best promotes tissue healing testing?",
+            "isCorrect": false,
+            "userAnswer": "Massage",
+            "correctAnswer": "Ultrasound",
+            "options": [
+                { "text": "Massage", "selected": true },
+                { "text": "Ultrasound", "selected": false, "correct": false },
+                { "text": "Rest", "selected": false },
+                { "text": "Stretching", "selected": false }
+            ]
+        },
+        {
+            "id": 5,
+            "type": "single",
+            "question": "Which modality best promotes tissue healing?",
+            "isCorrect": true,
+            "userAnswer": "Ultrasound",
+            "correctAnswer": "Ultrasound",
+            "options": [
+                { "text": "Massage", "selected": false },
+                { "text": "Ultrasound", "selected": true, "correct": true },
+                { "text": "Rest", "selected": false },
+                { "text": "Stretching", "selected": false }
+            ]
+        }
+    ]
+}

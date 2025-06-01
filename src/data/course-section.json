@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Overview",
+        "description": "Dive into the fundamentals of healthcare by exploring key treatment modalities and principles. Learn how Club Health strips back the saturated world of healthcare to focus on evidence-based physiotherapy, rehab & conditioning, and clinical pilates—all designed to help patients move well and prevent musculoskeletal conditions."
+    },
+    {
+        "name": "What you'll learn",
+        "points": [
+            "We added an option in the form builder to create and update custom reference forms.",
+            "A new setting in the job posting section lets you specify if references are needed for the job.",
+            "When reference collection is enabled, an extra block shows up in the job application form to collect references.",
+            "Both applicants and staff can see the reference status in the job application detail view, with options to view details or send reminders.",
+            "Once a reference form is completed, staff can review the submitted information."
+        ]
+    },
+    {
+        "name": "Who should enroll",
+        "points": [
+            "Physiotherapists seeking advanced clinical reasoning skills.",
+            "Fitness trainers aiming to prevent client injuries.",
+            "Rehab professionals expanding their toolkit with clinical Pilates.",
+            "Healthcare practitioners focused on sustainable patient outcomes."
+        ]
+    },
+    {
+        "name": "Course outline",
+        "courseOutline": [
+            {
+                "name": "Introduction & Philosophy",
+                "description": "Understand Club Health’s approach, founded on “Moving Well, and Moving Often.”",
+                "module": "Module 1",
+                "icon": "file-text",
+                "duration": "1.5 Hours",
+                "circleIcon": "circle"
+            },
+            {
+                "name": "Physiotherapy Fundamentals",
+                "description": "Assessment techniques, evidence-based practice, and treatment planning.",
+                "module": "Module 2",
+                "icon": "file-text",
+                "duration": "2.5 Hours",
+                "circleIcon": "circle"
+            },
+            {
+                "name": "Treatment Techniques",
+                "description": "Hands-on approaches including soft tissue manipulation, joint mobilisation, and percussion therapy.",
+                "module": "Module 3",
+                "icon": "file-text",
+                "duration": "2 Hours",
+                "circleIcon": "circle"
+            },
+            {
+                "name": "Specialized Therapies",
+                "description": "Explore trigger point therapy, laser therapy, and acupuncture.",
+                "module": "Module 4",
+                "icon": "file-text",
+                "duration": "1 Hour",
+                "circleIcon": "circle"
+            },
+            {
+                "name": "Prevention & Maintenance",
+                "description": "Learn strategies for rehab, conditioning, and long-term wellness through exercise selection and clinical pilates.",
+                "module": "Module 5",
+                "icon": "file-text",
+                "duration": "2.5 Hours",
+                "circleIcon": "circle"
+            },
+            {
+                "name": "Summary & Integration",
+                "description": "Recap and integrate concepts to support sustainable wellness.",
+                "module": "Module 6",
+                "icon": "file-text",
+                "duration": "3 Hours",
+                "circleIcon": "circle"
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "title": "New Learner Enrolled ",
+        "description": "Amelia johnson has just enrolled on 'Treatment Modalities & Basic Principles'.",
+        "date": "Apr 10, 2025 10:45 am",
+        "isRead": false,
+        "icon": "square-library",
+        "actionLabel": "View Profile"
+    },
+    {
+        "id": "2",
+        "title": "Assessment Passed",
+        "description": "Emily Chen passed the Final Comprehensive Assessment in Rehab & Conditioning Training with 88%",
+        "date": "Apr 9, 2025 6:20 pm",
+        "isRead": false,
+        "icon": "file-pen-line",
+        "actionLabel": "View Result"
+    },
+    {
+        "id": "3",
+        "title": "Assessment Failed",
+        "description": "Michael Smith did not meet the passing score on Technique Application Quiz.  Please follow up.",
+        "date": "Apr 5, 2025 4:15 pm",
+        "isRead": false,
+        "icon": "message-square-text",
+        "actionLabel": "View Result"
+    },
+    {
+        "id": "3",
+        "title": "Course Content Updated",
+        "description": "Tutor Jane Patel updated Module 3: Trigger Point Therapy in Treatment Modalities & Basic Principles.",
+        "date": "Apr 10, 2025 10:45 am",
+        "isRead": true,
+        "icon": "file-pen-line",
+        "actionLabel": "View Course"
+    },
+    {
+        "id": "3",
+        "title": "New Message from Learner",
+        "description": "You have a new message from Amelia Johnson regarding Exercise Selection in Rehab & Conditioning Training.",
+        "date": "Apr 10, 2025 10:45 am",
+        "isRead": true,
+        "icon": "file-text",
+        "actionLabel": "View Message"
+    }
+]

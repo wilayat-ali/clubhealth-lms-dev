@@ -1,0 +1,27 @@
+[
+    {
+        "icon": "calendar-clock",
+        "module": "Time to Complete",
+        "duration": "12–15 hours (self-paced)"
+    },
+    {
+        "icon": "coffee",
+        "module": "Level",
+        "duration": "Beginner to Intermediate"
+    },
+    {
+        "icon": "list-todo",
+        "module": "Modules",
+        "duration": "6 module series"
+    },
+    {
+        "icon": "clipboard-pen-line",
+        "module": "Assessments",
+        "duration": "11 Assessment"
+    },
+    {
+        "icon": "award",
+        "module": "Certificate",
+        "duration": "Earn a Certificate upon completion"
+    }
+]

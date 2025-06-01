@@ -1,0 +1,5 @@
+[
+    { "name": "High Risk", "value": 25 },
+    { "name": "Medium Risk", "value": 45 },
+    { "name": "Low Risk", "value": 30 }
+]

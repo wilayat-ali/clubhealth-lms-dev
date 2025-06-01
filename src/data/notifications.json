@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "New Badge Earned!",
+        "description": "Congratulations, Amelia! You’ve earned the Rising Star badge for completing your first module.",
+        "date": "Apr 10, 2025 10:45 am",
+        "isRead": false,
+        "icon": "award",
+        "actionLabel": "View Badge"
+    },
+    {
+        "id": "2",
+        "title": "Course Completed!",
+        "description": "Well done, Amelia! You have successfully completed the course 'Treatment Modalities & Basic Principles.",
+        "date": "Apr 9, 2025 6:20 pm",
+        "isRead": false,
+        "icon": "square-library",
+        "actionLabel": "View Certificate"
+    },
+    {
+        "id": "3",
+        "title": "New Message from Charlie Gouse",
+        "description": "You've received a new message regarding your inquiry. Tap to read the details.",
+        "date": "Apr 5, 2025 4:15 pm",
+        "isRead": true,
+        "icon": "message-square-text",
+        "actionLabel": "View Message"
+    }
+]

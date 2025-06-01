@@ -1,0 +1,14 @@
+[
+    {
+        "value": "general-inquiries",
+        "label": "General Inquiries"
+    },
+    {
+        "value": "technical-support",
+        "label": "Technical Support"
+    },
+    {
+        "value": "feedback-suggestions",
+        "label": "Feedback  & Suggestions"
+    }
+]

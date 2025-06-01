@@ -1,0 +1,9 @@
+[
+    { "date": "Apr 1", "timeSpent": 119, "chaptersCompleted": 10 },
+    { "date": "Apr 3", "timeSpent": 15, "chaptersCompleted": 4 },
+    { "date": "Apr 5", "timeSpent": 2, "chaptersCompleted": 5 },
+    { "date": "Apr 7", "timeSpent": 62, "chaptersCompleted": 5.2 },
+    { "date": "Apr 9", "timeSpent": 5, "chaptersCompleted": 3 },
+    { "date": "Apr 11", "timeSpent": 65, "chaptersCompleted": 7.2 },
+    { "date": "Apr 13", "timeSpent": 90, "chaptersCompleted": 4 }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "label": "Assessment Retake Rate",
+        "value": "32%",
+        "week": "",
+        "description": "The percentage of total assessments that are retakes rather than first attempts.",
+        "showProgress": true
+    },
+    {
+        "label": "Average Time to Course Completion",
+        "value": "10h 32m",
+        "week": "",
+        "description": "The average duration it takes for a learner to finish a course.",
+        "showProgress": false
+    }
+]

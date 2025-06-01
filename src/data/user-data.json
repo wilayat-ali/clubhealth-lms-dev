@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "name": "Luis Ribeiro",
+        "role": "Admin",
+        "image": "/images/admin-profile-image.png"
+    },
+    "learner": {
+        "name": "Amelia Warner",
+        "role": "Learner",
+        "image": "/images/avatar.png"
+    }
+}

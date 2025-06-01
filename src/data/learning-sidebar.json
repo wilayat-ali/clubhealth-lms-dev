@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Introduction & Philosophy",
+        "icon": "file-text",
+        "options": [
+            "Introduction & Overview",
+            "Who is Club Health?",
+            "What Do We Offer?",
+            "Main Principles of Club Health",
+            "Physiotherapy – Fundamentals & Treatment Techniques",
+            "Prevention & Maintenance in Physiotherapy",
+            "Summary & Recap"
+        ],
+        "lockIcon": "lock",
+        "chevDownIcon": "chevron-down",
+        "circleDashedIcon": "circle-dashed"
+    },
+    {
+        "name": "Physiotherapy Fundamentals",
+        "icon": "file-text",
+        "lockIcon": "lock",
+        "chevDownIcon": "chevron-down",
+        "circleDashedIcon": "circle-dashed"
+    },
+    {
+        "name": "Treatment Techniques",
+        "icon": "file-text",
+        "lockIcon": "lock",
+        "chevDownIcon": "chevron-down",
+        "circleDashedIcon": "circle-dashed"
+    },
+    {
+        "name": "Prevention & Maintenance",
+        "icon": "file-text",
+        "lockIcon": "lock",
+        "chevDownIcon": "chevron-down",
+        "circleDashedIcon": "circle-dashed"
+    },
+    {
+        "name": "Summary & Integration",
+        "icon": "file-text",
+        "lockIcon": "lock",
+        "circleDashedIcon": "circle-dashed"
+    },
+    {
+        "name": "Treatment Modalities & Basic Principles Assessment",
+        "icon": "file-pen-line",
+        "lockIcon": "lock",
+        "chevDownIcon": "chevron-down",
+        "circleDashedIcon": "circle-dashed"
+    }
+]

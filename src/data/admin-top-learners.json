@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "fullName": "Gretchen Geist",
+        "email": "gretchen@example.com",
+        "courseCompleted": "7",
+        "learningHours": "15h 30m",
+        "avgScore": "93",
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "fullName": "Craig Wastertolt",
+        "email": "craig@example.com",
+        "courseCompleted": "6",
+        "learningHours": "14h 28m",
+        "avgScore": "87",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "fullName": "Jakob Gesure",
+        "email": "jakob@example.com",
+        "learnerGroup": "Advanced Practitioners",
+        "courseCompleted": "6",
+        "learningHours": "13h 43m",
+        "avgScore": "82",
+        "status": "blocked"
+    },
+    {
+        "id": 4,
+        "fullName": "Jaydon Bootsh",
+        "email": "jaydon@example.com",
+        "learnerGroup": "Professional Development Track",
+        "courseCompleted": "5",
+        "learningHours": "11h 29m",
+        "avgScore": "77",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "fullName": "Kaiya Donin",
+        "email": "kaiya@example.com",
+        "learnerGroup": "Advanced Practitioners",
+        "courseCompleted": "5",
+        "learningHours": "10h 36m",
+        "avgScore": "78",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "fullName": "Haylie Stanton",
+        "email": "haylie@example.com",
+        "learnerGroup": "Intermediate Learners",
+        "courseCompleted": "4",
+        "learningHours": "9h 15m",
+        "avgScore": "75",
+        "status": "active"
+    }
+]

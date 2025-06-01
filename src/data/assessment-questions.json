@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "type": "single choice",
+        "question": "What is the core philosophy of Club Health?",
+        "options": [
+            "Train hard, stay fit",
+            "Moving Well, Moving Often",
+            "Always active, always strong",
+            "Train daily, no excuses"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "multiple choice",
+        "question": "Which of the following are key principles of Club Health's treatment approach?",
+        "options": [
+            "Short-term Pain Relief",
+            "Strength Training",
+            "Lifestyle Integration",
+            "Patient Education"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "single choice",
+        "question": "Which modality best promotes tissue healing?",
+        "options": ["Massage", "Ultrasound", "Rest", "Stretching"]
+    },
+    {
+        "id": 4,
+        "type": "single choice",
+        "question": "What is the recommended frequency for active rehab?",
+        "options": ["Daily", "2-3 times a week", "Once a week", "Monthly"]
+    },
+    {
+        "id": 5,
+        "type": "multiple choice",
+        "question": "Which techniques are used in manual therapy?",
+        "options": [
+            "Joint Mobilization",
+            "Taping",
+            "Dry Needling",
+            "Ultrasound"
+        ]
+    },
+    {
+        "id": 6,
+        "type": "single choice",
+        "question": "What is the primary goal of functional movement training?",
+        "options": [
+            "Build muscle mass",
+            "Improve aesthetics",
+            "Enhance daily function",
+            "Lose weight"
+        ]
+    },
+    {
+        "id": 7,
+        "type": "multiple choice",
+        "question": "Which of these are passive treatment methods?",
+        "options": [
+            "Heat Therapy",
+            "Cold Packs",
+            "Manual Stretching",
+            "Resistance Band Exercises"
+        ]
+    },
+    {
+        "id": 9,
+        "type": "multiple choice",
+        "question": "What are common goals of initial assessment?",
+        "options": [
+            "Pain Reduction",
+            "Diagnosis",
+            "Muscle Growth",
+            "Treatment Planning"
+        ]
+    },
+    {
+        "id": 10,
+        "type": "single choice",
+        "question": "Which system is most involved in balance and posture?",
+        "options": ["Respiratory", "Digestive", "Vestibular", "Endocrine"]
+    }
+]

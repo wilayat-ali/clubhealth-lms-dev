@@ -1,0 +1,23 @@
+[
+    {
+        "icon": "ChartPie",
+        "label": "Score",
+        "value": "80%"
+    },
+    {
+        "icon": "Zap",
+        "label": "Status",
+        "value": "Passed",
+        "valueColor": "text-brand-green"
+    },
+    {
+        "icon": "IterationCw",
+        "label": "Attempts",
+        "value": "1"
+    },
+    {
+        "icon": "AlarmClockCheck",
+        "label": "Time Taken",
+        "value": "5m 10s"
+    }
+]

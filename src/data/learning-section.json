@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Welcome & Module Objectives",
+        "description": "Welcome to the 'Treatment Modalities & Basic Principles' module. In this chapter, you will:",
+        "points": [
+            "Understand the core philosophy of Club Health—centered on the idea of 'Moving Well, and Moving Often.'",
+            "Learn why a simplified, evidence-based approach to healthcare is essential.",
+            "Discover the key components that form the foundation of our treatment methods."
+        ]
+    },
+    {
+        "name": "Our Philosophy",
+        "image": "/images/philosophy.png",
+        "description": "At Club Health, we believe that by stripping away the noise of modern, saturated healthcare, we can return to the basics that truly matter:",
+        "points": [
+            "Moving Well: Prioritizing balanced body alignment, muscle activation, and posture to support overall well-being.",
+            "Moving Often: Encouraging regular, structured physical activity to prevent the onset of musculoskeletal conditions."
+        ]
+    },
+    {
+        "name": "Why This Matters",
+        "points": [
+            "Preventative Care: Early intervention through physiotherapy, strength training, and clinical pilates not only treats existing issues but also prevents future injuries.",
+            "Holistic Approach: Our methods focus on restoring what may be missing in your movement patterns—helping you regain strength, flexibility, and balance.",
+            "Evidence-Based Practice: All techniques are grounded in research and clinical evidence, ensuring that every treatment recommendation is effective and sustainable."
+        ]
+    },
+    {
+        "name": "Course Roadmap",
+        "description": "This module is the first step in your learning journey. In the upcoming chapters, you will explore:",
+        "points": [
+            "Detailed insights into each treatment technique, from soft tissue manipulation to advanced modalities like laser therapy and acupuncture.",
+            "The role of comprehensive assessments in tailoring treatment plans.",
+            "Strategies for prevention and long-term maintenance to ensure lasting wellness."
+        ],
+        "courseOutline": [
+            {
+                "name": "Course Outline",
+                "description": "Discover the details of our product roadmap and what exciting offerings await you in this course.",
+                "url": "/icons/docx.svg"
+            },
+            {
+                "name": "Sample Presentation",
+                "description": "Discover the details of our product roadmap and what exciting offerings await you in this course.",
+                "url": "/icons/pdf.svg"
+            },
+            {
+                "name": "Sample Document",
+                "description": "Discover the details of our product roadmap and what exciting offerings await you in this course.",
+                "url": "/icons/pptx.svg"
+            }
+        ]
+    }
+]

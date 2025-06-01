@@ -1,0 +1,36 @@
+{
+    "1": [
+        {
+            "id": 1,
+            "sender": "Amelia Warner",
+            "img": "/images/avatar-1.jpg",
+            "time": "9:45 AM",
+            "message": "Hi Dr. Alex, I’m reviewing the course material on treatment techniques and would like some clarification. Could you explain the key differences between trigger point therapy and joint mobilization?",
+            "isStaff": false
+        },
+        {
+            "id": 2,
+            "sender": "Alex Johnson",
+            "img": "/images/avatar.png",
+            "time": "9:45 AM",
+            "message": "Hi Amelia, certainly! Trigger point therapy targets specific tight, painful spots within a muscle to alleviate localized pain, while joint mobilization is focused on increasing the overall range of motion and reducing stiffness in a joint by gently moving it within its natural limits.",
+            "isStaff": true
+        },
+        {
+            "id": 3,
+            "sender": "Amelia Warner",
+            "img": "/images/avatar-1.jpg",
+            "time": "9:45 AM",
+            "message": "Thanks for the explanation, Dr. Alex. Could you also advise on which technique is more suitable for patients experiencing chronic joint stiffness versus those with acute muscle tension?",
+            "isStaff": false
+        },
+        {
+            "id": 4,
+            "sender": "Alex Johnson",
+            "img": "/images/avatar.png",
+            "time": "9:45 AM",
+            "message": "Great question, Amelia. For chronic joint stiffness, joint mobilization is generally more beneficial because it gradually improves joint flexibility. On the other hand, trigger point therapy is effective for relieving acute muscle tension and localized pain.",
+            "isStaff": true
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "label": "Active Learners",
+        "value": "350",
+        "week": "",
+        "description": "Overall number of students registered via invite."
+    },
+    {
+        "label": "Course Enrollments",
+        "value": "765",
+        "week": "",
+        "description": "Total count of distinct course registrations by students"
+    },
+    {
+        "label": "Course Completion Rate",
+        "value": "~64%",
+        "week": "",
+        "description": "The proportion of students who complete the courses they enroll in."
+    },
+    {
+        "label": "Learning Hours / Learner",
+        "value": "15h",
+        "week": "/Week",
+        "description": "Overall number of students registered via invite."
+    },
+    {
+        "label": "Avg. Assessment Score",
+        "value": "85%",
+        "description": "Overall performance across assessments."
+    },
+    {
+        "label": "Certificates Issued",
+        "value": "490",
+        "description": "Total count of unique certificates distributed by Club Health."
+    }
+]

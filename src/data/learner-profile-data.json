@@ -1,0 +1,70 @@
+{
+    "name": "Gretchen Geidt",
+    "email": "gretchen@example.com",
+    "level": "Intermediate Learners",
+    "memberSince": "April 10, 2025",
+    "status": "Active",
+    "courses": [
+        {
+            "title": "Treatment Modalities & Basic Principles",
+            "startDate": "April 10, 2025",
+            "endDate": "April 12, 2025",
+            "timeSpent": "4h 32m",
+            "progress": 100,
+            "chapters": "15/15",
+            "status": "Completed"
+        },
+        {
+            "title": "Postural Principles",
+            "startDate": "April 12, 2025",
+            "endDate": "N/A",
+            "timeSpent": "2h 5m",
+            "progress": 90,
+            "chapters": "9/10",
+            "status": "Ongoing"
+        },
+        {
+            "title": "Movement Principles",
+            "startDate": "April 14, 2025",
+            "endDate": "N/A",
+            "timeSpent": "1h 15m",
+            "progress": 40,
+            "chapters": "4/10",
+            "status": "Ongoing"
+        }
+    ],
+    "assessments": [
+        {
+            "title": "Treatment Modalities & Basic Principles",
+            "type": "Final Assessment",
+            "date": "April 12, 2025 10:45 am",
+            "attempt": 2,
+            "timeTaken": "0h 10m",
+            "score": 93,
+            "status": "Passed"
+        },
+        {
+            "title": "Postural Principles",
+            "type": "Final Assessment",
+            "date": "April 12, 2025 6:35 pm",
+            "attempt": 1,
+            "timeTaken": "0h 8m",
+            "score": 45,
+            "status": "Failed"
+        }
+    ],
+    "certificates": [
+        {
+            "title": "Treatment Modalities & Basic Principles",
+            "date": "Apr 12, 2025 10:46 am",
+            "imageUrl": "/placeholder.svg?height=200&width=300"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Quiz Master",
+            "date": "Apr 12, 2025 10:46 am",
+            "iconUrl": "/placeholder.svg?height=100&width=100"
+        }
+    ]
+}

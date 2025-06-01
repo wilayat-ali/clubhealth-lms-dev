@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "sender": "Alex Johnson",
+        "time": "10:15 AM",
+        "subject": "Clarification on Treatment Techniques",
+        "message": "Great question, Amelia. For chronic joint stiffness, joint mobilization is generally more beneficial because it gradually improves joint flexibility. On the other hand, trigger point therapy is effective for relieving acute muscle tension and localized pain.",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "sender": "Jordan Lee",
+        "time": "09:45 AM",
+        "subject": "Re: Follow-Up on Preventative Maintenance Strategies",
+        "message": "Hi Ms. Johnson, I’ve read through the updated section. Could you please elaborate on how ergonomic training fits into these strategies?",
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "sender": "Samantha Green",
+        "time": "03/15/2026",
+        "subject": "Important Update: New Module Content Available",
+        "message": "Thank you for the update. I’ll check out the new content and let you know if I have any questions.",
+        "isActive": false
+    }
+]
