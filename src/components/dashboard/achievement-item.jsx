@@ -22,13 +22,13 @@ const AchievementItem = ({
                 />
             </div>
             <div className="flex flex-1 flex-col overflow-hidden">
-                <div className="flex items-start justify-between max-[1600px]:items-baseline max-[1600px]:items-center">
-                    <p className="text-lg font-semibold">{title}</p>
+                <div className="flex items-start justify-between max-[1600px]:items-baseline max-[1600px]:items-center gap-4">
+                    <p className="text-lg font-semibold truncate">{title}</p>
                     <span className="text-secondary-foreground text-xs whitespace-nowrap">
                         {date}
                     </span>
                 </div>
-                <p className="text-secondary-foreground mt-1 text-sm">
+                <p className="text-secondary-foreground mt-1 text-sm line-clamp-3">
                     {description}
                 </p>
             </div>

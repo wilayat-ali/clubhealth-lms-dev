@@ -1,14 +1,34 @@
 'use client'
-import Link from 'next/link'
 import Image from 'next/image'
-import { buttonVariants } from '@/components/ui/button'
-import { cn } from '@/lib/utils'
-
+import { useRouter } from 'next/navigation'
+import { Button } from '@/components/ui/button'
 // export const metadata = {
 //     title: '404 page not found',
 // }
 
 const NotFound = () => {
+    const router = useRouter()
+    const handleBackToHome = () => {
+        const email = localStorage.getItem('userEmail')
+        const role = localStorage.getItem('userRole')
+    
+        // If no auth info, redirect to login
+        if (!email || !role) {
+            router.replace('/login')
+            return
+        }
+    
+        // Redirect based on role and attempted path
+        if (role === 'admin') {
+            router.replace('/admin')
+            return
+        }
+    
+        if (role === 'learner') {
+            router.replace('/')
+            return
+        }
+    }
     return (
         <div className="flex h-screen items-center justify-center">
             <div className="relative">
@@ -26,7 +46,7 @@ const NotFound = () => {
 
                             {/* Text with white background positioned over image */}
                             <div className="absolute top-28 z-10">
-                                <h1 className="text-secondary-foreground w-auto bg-white px-4 text-[58px]">
+                                <h1 className="text-secondary-foreground w-auto bg-background px-4 text-[58px]">
                                     404
                                 </h1>
                             </div>
@@ -41,20 +61,7 @@ const NotFound = () => {
                             address incorrectly, or the page you were looking
                             for may have been moved, updated or deleted.
                         </p>
-                        <div>
-                            <Link
-                                href="/hire"
-                                className={cn(
-                                    'shadow-lg hover:no-underline',
-                                    buttonVariants({
-                                        variant: 'primary',
-                                        size: 'xl',
-                                    })
-                                )}
-                            >
-                                Back to Home
-                            </Link>
-                        </div>
+                        <Button onClick={handleBackToHome}>Back to Home</Button>
                     </div>
                 </div>
             </div>

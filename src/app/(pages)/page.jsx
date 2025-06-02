@@ -94,7 +94,7 @@ const Dashboard = () => {
             </div>
 
             <div className="mt-6 overflow-hidden">
-                <div className="grid grid-cols-2 gap-y-6 sm:grid-cols-2 sm:gap-6 2xl:grid-cols-3">
+                <div className="grid grid-cols-1 sm:grid-cols-1 gap-y-6 sm:gap-6 md:grid-cols-2 2xl:grid-cols-3">
                     <div className="col-span-1">
                         <LearningActivityChart
                             learningActivityData={learningActivityData}
@@ -109,7 +109,7 @@ const Dashboard = () => {
                         />
                     </div>
                     <div className="bg-card border-barder rounded-lg border p-4 sm:col-span-2 2xl:col-span-1">
-                        <div className="flex items-center justify-between">
+                        <div className="flex items-center justify-between ml-2">
                             <div className="text-xl font-semibold">
                                 Achievements
                             </div>
@@ -122,7 +122,7 @@ const Dashboard = () => {
                                 <ArrowRight className="text-foreground h-4 w-4" />
                             </Button>
                         </div>
-                        <div className="mt-4 space-y-3 max-[1600px]:grid max-[1600px]:grid-cols-3 max-[1600px]:gap-x-4">
+                        <div className="mt-4 space-y-3 max-[1536px]:grid max-[1280px]:grid-cols-1 max-[1600px]:grid-cols-3 max-[1536px]:gap-x-4">
                             {achievements.map((achievement, index) => (
                                 <AchievementItem
                                     key={index}

@@ -6,7 +6,7 @@ import AreaChartTooltip from '@/components/dashboard/area-chart-tooltip'
 
 const LearningActivityChart = ({ learningActivityData, title }) => {
     return (
-        <Card className="w-full shadow-none">
+        <Card className="w-full shadow-none flex">
             <CardHeader className="text-foreground -mb-3 text-lg font-semibold">
                 {title}
             </CardHeader>
@@ -26,7 +26,7 @@ const LearningActivityChart = ({ learningActivityData, title }) => {
                         <div className="bg-brand-blue text-secondary-foreground size-3 rounded-full" />
                     </div>
                 </div>
-                <div className="h-[368px]">
+                <div className="h-[357px]">
                     <AreaChart
                         data={learningActivityData}
                         xKey="date"

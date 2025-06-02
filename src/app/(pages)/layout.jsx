@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 
+import { notFound } from 'next/navigation';
 import { useRouter, usePathname } from 'next/navigation'
 import NotificationButton from '@/components/notification'
 import Sidebar from '@/components/sidebar/sidebar'
@@ -19,7 +20,6 @@ const PageLayout = ({ children }) => {
     useEffect(() => {
         if (!pathname) return
 
-        // Auth check
         const email = localStorage.getItem('userEmail')
         const role = localStorage.getItem('userRole')
 
@@ -29,8 +29,23 @@ const PageLayout = ({ children }) => {
             return
         }
 
-        // Only run this on client
-        setPortalType(pathname.startsWith('/admin') ? 'admin' : 'learner')
+        // Determine portal type based on pathname
+        const isAdminPath = pathname.startsWith('/admin')
+        const isLearnerPath = !isAdminPath
+
+        // Redirect based on role and attempted path
+        if (role === 'admin' && isLearnerPath) {
+            notFound()
+            return
+        }
+
+        if (role === 'learner' && isAdminPath) {
+            notFound()
+            return
+        }
+
+        // Set portal type and sidebar state
+        setPortalType(isAdminPath ? 'admin' : 'learner')
         setIsCollapsed(window.innerWidth <= 1024)
         setHasMounted(true)
 
@@ -42,7 +57,17 @@ const PageLayout = ({ children }) => {
         return () => window.removeEventListener('resize', handleResize)
     }, [pathname])
 
-    if (!hasMounted || !portalType) return null
+    // if (!hasMounted || !portalType) return null
+
+    // Show loader while checking auth
+    if (!hasMounted || !portalType) {
+        return (
+            <div className="flex h-screen flex-col items-center justify-center space-y-2 bg-white">
+                {/* <Loader2 className="mr-2 h-6 w-6 animate-spin text-gray-600" /> */}
+                <p>Redirecting...</p>
+            </div>
+        )
+    }
 
     return (
         <div className="bg-muted flex">

@@ -38,7 +38,7 @@ const CoursesEngagementChart = ({
                     />
                 </div>
 
-                <div className="mt-6 space-y-1">
+                <div className="mt-0 space-y-1">
                     <p className="text-sm font-medium">
                         Overall you have spent total 30h 10m
                     </p>
